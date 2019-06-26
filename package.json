@@ -1,0 +1,21 @@
+{
+  "name": "imie",
+  "version": "1.2.8",
+  "description": "question",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/makoteq/Whats_your_nameCLI.git"
+  },
+  "author": "Maciej Kotowski <https://github.com/makoteq>",
+  "license": "MIT",
+  "bin": {
+    "imie": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
